@@ -1,0 +1,10 @@
+# Site settings - in YAML this is a comment, btw. Two-space indentation for the array for Minima theme.
+title: Donna's LXD blog
+author:
+  name: Donna MacLeod
+  email: info@dmacleod.ca
+description: "Learning Experience Design (LXD)"
+
+# Build settings
+remote_theme: jekyll/minima
+# theme: theme-name - for local install
