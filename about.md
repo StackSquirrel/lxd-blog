@@ -1,7 +1,7 @@
 ---
 layout: dark
 title: About
-example: Example text in this variable.
+example: Example text in this variable. More example text.
 ---
 
 This page describes the amazing {{ site.title }} by {{ site.author.name }}.
