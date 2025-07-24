@@ -9,4 +9,5 @@ description: "Learning Experience Design (LXD)"
 remote_theme: jekyll/minima
 # theme: theme-name - for local install
 
-
+minima:
+  skin: dark
