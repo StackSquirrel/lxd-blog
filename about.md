@@ -20,7 +20,7 @@ It is your opportunity to let us know all the details "about" your project:
 
 {% for animal in site.data.animals %}
 - The {{ animal.name }} is a {{ animal.size }}.
-{% endfor $}
+{% endfor %}
 
 ## Large animals are best!
 
