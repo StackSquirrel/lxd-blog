@@ -3,6 +3,6 @@
 layout : home
 ---
 
-Welcome to the new blog.
+Welcome to the new LXD blog.
 
 
