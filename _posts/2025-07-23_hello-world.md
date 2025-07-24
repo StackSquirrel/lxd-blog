@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: Hello world
 date: 2025-07-23
 tags : test
 categories: demo
