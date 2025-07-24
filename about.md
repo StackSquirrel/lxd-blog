@@ -23,6 +23,8 @@ It is your opportunity to let us know all the details "about" your project:
 - The {{ animal.name }} is a {{ animal.size }} animal.
 {% endfor %}
 
+
+
 ## Large animals are best!
 
 {% for animal in site.data.animals %}
@@ -30,3 +32,12 @@ It is your opportunity to let us know all the details "about" your project:
 {% else %} - <small>{{ animal.name }}</small>
 {% endif %}
 {% endfor %}
+
+
+## Small animals only
+
+{% assign small_animals = site.data.animals | where: "size", "small" %}
+{% for animal in small_animals %}
+- {{ animal.name | upcase }}
+{% endfor %}
+
