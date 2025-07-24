@@ -18,3 +18,14 @@ It is your opportunity to let us know all the details "about" your project:
 - people involved
 - code and projects used
 
+{% for animal in site.data.animals %}
+- The {{ animal.name }} is a {{ animal.size }}.
+{% endfor $}
+
+## Large animals are best!
+
+{% for animal in site.data.animals %}
+{% if animal.size == "large" %} - <strong style="color: {{ animal.colour }};">{{ animal.name }}</strong>
+{% else %} - <small>{{ animal.name }}</small>
+{% endif %}
+{% endfor $}
