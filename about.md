@@ -1,6 +1,7 @@
 ---
-layout: dark
+layout: page
 title: About
+permalink: /about/
 example: Example text in this variable. More example text.
 ---
 
