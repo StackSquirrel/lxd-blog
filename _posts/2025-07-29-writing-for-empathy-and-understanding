@@ -5,7 +5,7 @@ date: 2025-07-29
 tags: empathy
 categories: writing
 ---
-# ![White boat on still water.](/assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg)  
+[comment]: <> (This is a comment, it will not be included ![White boat on still water.](/assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg)  )
 
 >"There have been great societies that did not use the wheel, but there have been no societies that did not tell stories." ― Ursula K. Le Guin</p>
 >The Language of the Night: Essays on Fantasy and Science Fiction, 1979
@@ -40,8 +40,8 @@ And then, you've learned. You've built up a thick web of associations. You've ma
 
 One day, when you tell yourself (or others?) that story, it will have a new ending. It will have a takeaway. It might be a cautionary tale. But, if you share it, someone else might learn from your mistakes, too. We can level up, together, like a rising tide.
 
-![white-boat-on-body-of-water-Oi1fJwi35oI.jpg]({{ site.baseurl }}/_assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg)
-Photo by <a href="https://unsplash.com/@osmanrana?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Osman Rana</a> on <a href="https://unsplash.com/photos/white-boat-on-body-of-water-Oi1fJwi35oI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+[comment]: <> (This is a comment, it will not be included ![white-boat-on-body-of-water-Oi1fJwi35oI.jpg]({{ site.baseurl }}/_assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg))
+[comment]: <> (This is a comment, it will not be included Photo by <a href="https://unsplash.com/@osmanrana?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Osman Rana</a> on <a href="https://unsplash.com/photos/white-boat-on-body-of-water-Oi1fJwi35oI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
       
 
 ## Writing to teach others
