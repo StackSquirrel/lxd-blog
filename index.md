@@ -1,6 +1,6 @@
 ---
 # Comment - this is frontmatter
-layout : home
+layout : page
 ---
 
-Welcome to the new LXD blog.
+Welcome to the new LXD site
