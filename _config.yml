@@ -6,7 +6,8 @@ author:
 description: "Learning Experience Design (LXD)"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima 
+future: true
 # theme: theme-name - for local install
 show_excerpts: true  # to show the first part of the blog?
 minima:
