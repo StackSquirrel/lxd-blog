@@ -6,7 +6,7 @@ tags: empathy
 categories: writing
 baseurl: /assets/images
 ---
-[comment]: <> (This is a comment, it will not be included ![White boat on still water.](/assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg)  )
+![White boat on still water.](/assets/images/osman-rana-Oi1fJwi35oI-unsplash.jpg) 
 
 >"There have been great societies that did not use the wheel, but there have been no societies that did not tell stories." ― Ursula K. Le Guin</p>
 >The Language of the Night: Essays on Fantasy and Science Fiction, 1979
