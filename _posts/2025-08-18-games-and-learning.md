@@ -16,8 +16,8 @@ About a month ago, I came across [Dungeons &amp; Dragons taught me how to write 
 
 An example, you say?
 
-<img align="right"  height="200px" />
-![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg) Courtesy: Toronto Public Library
+![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg){:height="100px"} Courtesy: Toronto Public Library
+ 
 
 Your mission, should you choose to accept it, is to describe the illustrated book cover of Marjorie Bowen's posthumous children's novel [The man with the scales](https://digitalarchive.tpl.ca/objects/379170) (1954), pictured above. 
 
