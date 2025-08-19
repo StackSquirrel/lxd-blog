@@ -1,7 +1,7 @@
 ---
 layout: post
 title:Games and learning: Choosing your own adventure
-date: 2025-08-18
+date: 2025-08-28
 tags : games, learning
 categories: LXD
 ---
@@ -16,7 +16,7 @@ About a month ago, I came across [Dungeons &amp; Dragons taught me how to write 
 
 An example, you say?
 
-![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg){:height="300px"} img { float: right; }
+![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg){:height="400px"} 
  
 
 Your mission, should you choose to accept it, is to describe the illustrated book cover of Marjorie Bowen's posthumous children's novel [The man with the scales](https://digitalarchive.tpl.ca/objects/379170) (1954), pictured above. 
