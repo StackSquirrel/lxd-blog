@@ -1,7 +1,7 @@
 ---
 layout: post
 title:Games and learning: Choosing your own adventure
-date: 2025-08-23
+date: 2025-08-19
 tags : games, learning
 categories: LXD
 ---
