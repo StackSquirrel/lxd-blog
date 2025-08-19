@@ -26,11 +26,11 @@ Take a moment now to think about how you would describe it.
 
 Ready?
 
-Here is what they wrote: 
+Here is what the learner wrote.
 
-* <em>A man in a green tailcoat, holding a brown and blue garment,  can be seen from the back, his right arm is raised. An older man in a brown tailcoat sits in a brown chair at a round ornate table resting his head on his hands. A woman with a royal blue, scoop-necked dress stands behind the older man. The draperies are pink and there are cream coloured columns and frescoes on the wall.</em> (74 words, 383 characters)
+>A man in a green tailcoat, holding a brown and blue garment,  can be seen from the back, his right arm is raised. An older man in a brown tailcoat sits in a brown chair at a round ornate table resting his head on his hands. A woman with a royal blue, scoop-necked dress stands behind the older man. The draperies are pink and there are cream coloured columns and frescoes on the wall. (74 words, 383 characters)
 
-Very thorough. It must be good, right? <em>Welllllll</em>... 
+Very thorough. It must be good, right? _Welllllll_... 
 
 1. It's too long (100-150 characters is recommended). 
 2. Is all that colour really essential, or is it just easy to describe? <br>Consider the audience: people who use screen readers. Many are blind; they don't really about colours. The rest can probably see the colours, so they don't need them.
@@ -41,7 +41,7 @@ Very thorough. It must be good, right? <em>Welllllll</em>...
 
 Proposed revision:
 
-* <em>Book cover: The Devil threatens an elderly man and his much younger daughter.</em> (13 words, 77 characters)
+> Book cover: The Devil threatens an elderly man and his much younger daughter. (13 words, 77 characters)
 
 Bang! Short. Sweet. Right in middle of the action! Now, I know what the image is. (I also know what the book is about, an added bonus.). I must've rolled a 20! 
 
@@ -51,9 +51,9 @@ True, you do have to do some work. You have to know the context, and not be afra
 
 Actually, _D and D_ is having a bit of a moment, right now, judging by an article that was published in a recent edition of College and Research Libraries journal [Dungeons and Dragons in the Information Literacy Classroom: How We Taught Bias in a For-Credit IL Class](https://crl.acrl.org/index.php/crl/article/view/26468/34392)</a>". This was a semester-long class in information literacy.
 
-<strong>Geeky aside</strong>: "Information literacy" — which is more interesting than it sounds — means recognising that you need information, searching for it, finding it, evaluating it, using it ethically, and citing it properly. It's essential to scholarship of any kind.
+**Geeky aside**: "Information literacy" — which is more interesting than it sounds — means recognising that you need information, searching for it, finding it, evaluating it, using it ethically, and citing it properly. It's essential to scholarship of any kind.
 
-A decade ago, <strong>Zombie Apocalypse</strong> was all the rage. It all started way back in 2011, with a student library orientation comic, [The Library of the Living Dead](https://sphk200.sitehost.iu.edu/students/Library-of-the-Living-Dead-Online-Edition.pdf) (PDF). It spawned a conflagration of library programs across North America, like this [Zombie Attack program](https://programminglibrarian.org/programs/zombie-attack), published six years later.
+A decade ago, **Zombie Apocalypse** was all the rage. It all started way back in 2011, with a student library orientation comic, [The Library of the Living Dead](https://sphk200.sitehost.iu.edu/students/Library-of-the-Living-Dead-Online-Edition.pdf) (PDF). It spawned a conflagration of library programs across North America, like this [Zombie Attack program](https://programminglibrarian.org/programs/zombie-attack), published six years later.
 
 Face it. Libraries are a hard sell to first-year students. Any hook will do, if it gets them in the door.
 
@@ -82,8 +82,8 @@ Games can even make [boring things like, metadata creation, more fun](https://wi
 ## Games or gamification?
 A useful distinction here:
 
-* <strong>Gamification </strong>means layering gaming principles onto a learning experience: missions, challenges, avatars, badges and points systems, etc. It can be done poorly. It can be done well.<br>Think "Periodic Table Jeopardy", or "Pride and Prejudice Family Feud". Think DuoLingo. 
-* <strong>Game-based learning</strong> incorporates the learning into the game, which is designed specifically to achieve a learning aim. Principles and characteristics of the topic become part of the game. Importantly, the teaching is <em>game-like</em>, but reflects the <em>actual learning experience</em>. <br>Imagine a game where school children take on various roles in their community, buying and selling things, making change to improve their math skills. Or a [sales game simulation](https://www.elucidat.com/showcase/#sales-simulation) that mirrors a real-world scenario. 
+* **Gamification** means layering gaming principles onto a learning experience: missions, challenges, avatars, badges and points systems, etc. It can be done poorly. It can be done well.<br>Think "Periodic Table Jeopardy", or "Pride and Prejudice Family Feud". Think DuoLingo. 
+* **Game-based learning** incorporates the learning into the game, which is designed specifically to achieve a learning aim. Principles and characteristics of the topic become part of the game. Importantly, the teaching is *game-like*, but reflects the *actual learning experience*. Imagine a game where school children take on various roles in their community, buying and selling things, making change to improve their math skills. Or a [sales game simulation](https://www.elucidat.com/showcase/#sales-simulation) that mirrors a real-world scenario. 
 
 Incorporating some games into your lesson plans can help learning. It can be more fun. It can help learners "think outside the box". 
 
@@ -105,12 +105,12 @@ There is a reason we do fire drills: they work. Pretending to evacuate the build
 
 Relying too much on games can cause potential problems, however. 
 
-* If you rely too much on competition or badges (<strong>extrinsic motivation</strong>), you risk derailing the learning process. <br>Do you (or does someone you know) ever log into Duo Lingo less to learn the language than to not "break your streak"? 
+* If you rely too much on competition or badges (**extrinsic motivation**), you risk derailing the learning process. <br>Do you (or does someone you know) ever log into Duo Lingo less to learn the language than to not "break your streak"? 
 * It can lead to superficial learning, where learners focus on the game mechanics rather than the content. <br>Think of the "Periodic Table Jeopardy" game: it's fun, but does it really teach you about the periodic table?
 * It can create a false sense of achievement, where learners feel like they have mastered the material
-* It can annoy the learner. While a game may make memorising more fun for some, games are a lot less enjoyable if you have no choice over whether to take part. <strong>Always give them a choice</strong>.
+* It can annoy the learner. While a game may make memorising more fun for some, games are a lot less enjoyable if you have no choice over whether to take part. **Always give them a choice**.
 
-A more effective use of games is to scaffold productive challenges, or to document learner improvement (<strong>intrinsic motivation</strong>). And — like some spices — a little goes a long way.
+A more effective use of games is to scaffold productive challenges, or to document learner improvement (**intrinsic motivation**). And — like some spices — a little goes a long way.
 
 ## Also, games are fun!
 Want to play a game, just for fun? I would invite you to visit one of my first loves is [Colossal Cave](https://grack.com/demos/adventure/), an adventure in spatial way-finding underground, based on a real cave system in Arizona. 
@@ -122,12 +122,12 @@ What's your favourite game?
 
 * American Library Association. Centre for the Future of Libraries. "Gamification"/ URL: https://www.ala.org/future/trends/gamification. Accessed September 24, 2024.
 * Bailey, Eric W. "Dungeons &amp; Dragons taught me how to write alt text". Blog post 166, undated. URL: https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/. Accessed September 24, 2024.
-* Bartleby: The Play's the Thing.<em> The Economist</em>, vol. 445, no. 9320, Nov 05, 2022, pp. 73<em>. ProQuest</em>, https://ezproxy.torontopubliclibrary.ca/login?url=https://www.proquest.com/magazines/bartleby-plays-thing/docview/2731965232/se-2. Accessed September 24, 2024.
-* Bowen, Marjorie. <em>The man with the scales</em>, 1954. London: Hutchinson, 1954. 223 pages. URL: https://digitalarchive.tpl.ca/objects/379170.  Accessed September 24, 2024.
+* Bartleby: The Play's the Thing. *The Economist*, vol. 445, no. 9320, Nov 05, 2022, pp. 73_. ProQuest_, https://ezproxy.torontopubliclibrary.ca/login?url=https://www.proquest.com/magazines/bartleby-plays-thing/docview/2731965232/se-2. Accessed September 24, 2024.
+* Bowen, Marjorie. *The man with the scales*, 1954. London: Hutchinson, 1954. 223 pages. URL: https://digitalarchive.tpl.ca/objects/379170.  Accessed September 24, 2024.
 * Brown, William. "5 best examples of gamification in elearning". Elucidat blog, undated. URL: https://www.elucidat.com/blog/gamification-in-elearning-examples/. Accessed September 24, 2024.
-* Cloke, Harry. "Is Gamification Effective: The Neuroscience of Gamification Explains Why". Growth Engineering. April 7, 2020. URL: https://www.growthengineering.co.uk/the-neuroscience-of-gamification-in-online-learning/. Accessed September 24, 2024. 
-* Clossen, Amanda. "Dungeons and Dragons in the Information Literacy Classroom: How We Taught Bias in a For-Credit IL Class". <em>College &amp; Research Libraries</em> [Online], Volume 85 Number 6 (5 September 2024). URL: https://crl.acrl.org/index.php/crl/article/view/26468/34392. Accessed September 24, 2024.
+* Cloke, Harry. "Is Gamification effective: The neuroscience of gamification explains why". Growth Engineering. April 7, 2020. URL: https://www.growthengineering.co.uk/the-neuroscience-of-gamification-in-online-learning/. Accessed September 24, 2024. 
+* Clossen, Amanda. "Dungeons and Dragons in the information literacy classroom: How we taught bias in a for-credit IL class". _College &amp; Research Libraries_, Volume 85 Number 6 (5 September 2024). URL: https://crl.acrl.org/index.php/crl/article/view/26468/34392. Accessed September 24, 2024.
 * Madison College Libraries.  "What is information literacy?". LibGuide. Information Literacy: Guide for Students. URL: https://libguides.madisoncollege.edu/InfoLitStudents. Accessed September 24, 2024.
-* Selander, Fredrik. "Gamification In Learning: 10 Things To Know in 2024". Lingio. Blog post. August 30, 2024. URL: https://www.lingio.com/blog/gamification-in-learning. Accessed September 24, 2024.
-* University of Waterloo. Centre for Teaching Excellence. "Gamification and Game-Based Learning". Undated. URL: https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/gamification-and-game-based-learning. Accessed September 24, 2024.
-* Vandenbroucke, Brecht. "How Videogames Like Minecraft Actually Help Kids Learn to Read". Wired. Oct 9, 2014. URL: https://www.wired.com/2014/10/video-game-literacy/. Accessed September 24, 2024.
+* Selander, Fredrik. "Gamification in learning: 10 things to know in 2024". Lingio. Blog post. August 30, 2024. URL: https://www.lingio.com/blog/gamification-in-learning. Accessed September 24, 2024.
+* University of Waterloo. Centre for Teaching Excellence. "Gamification and bame-based learning". Undated. URL: https://uwaterloo.ca/centre-for-teaching-excellence/catalogs/tip-sheets/gamification-and-game-based-learning. Accessed September 24, 2024.
+* Vandenbroucke, Brecht. "How videogames like Minecraft actually help kids learn to read". Wired. Oct 9, 2014. URL: https://www.wired.com/2014/10/video-game-literacy/. Accessed September 24, 2024.
