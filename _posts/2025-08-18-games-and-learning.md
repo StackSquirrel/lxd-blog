@@ -1,7 +1,7 @@
 ---
 layout: post
 title:Games and learning: Choosing your own adventure
-date: 2025-08-28
+date: 2025-08-18
 tags : games, learning
 categories: LXD
 ---
@@ -15,7 +15,8 @@ A terror to the parents of the 1980s (satanic panic), today's anxious parents of
 About a month ago, I came across [Dungeons &amp; Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)", an article that clearly explains how to create this important accessibility tool. For my learners, the context element is a genuine struggle. They prefer detail to action. 
 
 An example, you say?
-<img align="right"  height="200px" src="{{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg" />
+
+<img align="right"  height="200px" />
 ![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg) Courtesy: Toronto Public Library
 
 Your mission, should you choose to accept it, is to describe the illustrated book cover of Marjorie Bowen's posthumous children's novel [The man with the scales](https://digitalarchive.tpl.ca/objects/379170) (1954), pictured above. 
