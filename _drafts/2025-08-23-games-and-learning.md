@@ -15,12 +15,10 @@ A terror to the parents of the 1980s (satanic panic), today's anxious parents of
 About a month ago, I came across [Dungeons &amp; Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)", an article that clearly explains how to create this important accessibility tool. For my learners, the context element is a genuine struggle. They prefer detail to action. 
 
 An example, you say?
-![Book cover: The Devil threatens and old man and his much younger daughter.](Bowen-Marjorie-Man-with-the-scales.jpg)
-<!-- wp:image {"align":"right","id":47,"width":189,"height":286} -->
-<figure class="wp-block-image alignright is-resized"><img src="https://dmac2024.edublogs.org/files/2024/09/37131181024258D_Book-Cover_Bowen-Marjorie-The-man-with-the-scales-677x1024.jpg" alt="Book cover: The Devil threatens and old man and his much younger daughter." class="wp-image-47" width="189" height="286"/></figure>
-<!-- /wp:image -->
 
-Your mission, should you choose to accept it, is to describe the illustrated book cover of Marjorie Bowen's posthumous children's novel [The man with the scales](https://digitalarchive.tpl.ca/objects/379170) (1954), pictured at right. 
+![Book cover: The Devil threatens and old man and his much younger daughter.]({{ site.baseurl }}/assets/images/Bowen-Marjorie-Man-with-the-scales.jpg) Courtesy Toronto Public Library)
+
+Your mission, should you choose to accept it, is to describe the illustrated book cover of Marjorie Bowen's posthumous children's novel [The man with the scales](https://digitalarchive.tpl.ca/objects/379170) (1954), pictured above. 
 
 Take a moment now to think about how you would describe it.
 
