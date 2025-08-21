@@ -4,6 +4,7 @@ title: Hello, world!
 date: 2025-07-23
 tags : test
 categories: test
+author: Donna MacLeod
 ---
 
 This is my first blog post on this new site, created in Jekyll. I have previously created static sites using Hugo, but this is my first attempt at Jekyll. The learning curve is pretty steep at the beginning, but I am starting to get the hang of it. Hooray! I'm hugely excited to slowly pull this site together.
