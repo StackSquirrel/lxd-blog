@@ -1,0 +1,14 @@
+
+{% comment %} 
+    this include adds a picture of a big cat from Wikimedia, S. Taheri,
+    https://commons.wikimedia.org/wiki/File:Siberischer_tiger_de_edit02.jpg 
+{% endcomment %}
+
+<img style="display:block; margin: 10px auto;" 
+    src="{{ site.baseurl }}/assets/images/{{ include.image}}" 
+    alt="{{ include.alt | default: 'image'}}" 
+/>
+
+	
+<img class="feat-img" src="{{ site.baseurl }}/assets/images/{{ include.image }}" alt="{{ include.alt | default: 'image representing a theme in this article' }}" />
+
