@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games and learning — choosing your own adventure
+title: Games and learning: choosing your own adventure
 date: 2025-08-20
 src: Bowen-Marjorie-Man-with-the-scales.jpg
 alt: "Book cover: The Devil threatens and old man and his much younger daughter."
