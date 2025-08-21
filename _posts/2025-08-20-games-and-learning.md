@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Games and learning: Choosing your own adventure"
+title: Games and learning: hoosing your own adventure
 date: 2025-08-20
 src: Bowen-Marjorie-Man-with-the-scales.jpg
 alt: "Book cover: The Devil threatens and old man and his much younger daughter."
 tags : games, learning
 categories: LXD
+author: Donna MacLeod
 ---
 
 This year is the 50th anniversary of *Dungeons and Dragons*, the (in)famous role-playing fantasy game, know to it's friends as *D and D*. 
