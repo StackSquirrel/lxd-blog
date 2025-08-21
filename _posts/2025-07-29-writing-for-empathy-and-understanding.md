@@ -5,6 +5,7 @@ date: 2025-07-29
 tags: empathy
 categories: writing
 baseurl: /assets/images
+author: Donna MacLeod
 ---
 
 >"There have been great societies that did not use the wheel, but there have been no societies that did not tell stories." ― Ursula K. Le Guin</p>
